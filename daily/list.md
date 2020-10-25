@@ -55,6 +55,23 @@ LRU Cache
 - [day59 190 reverse-bits](https://leetcode.com/problems/reverse-bits/)
 将无符号32位数按位倒转
 
+- [day60 lru-cache](https://leetcode.com/problems/lru-cache)
+LRU Cache
+
 - [day61 64 minimum-path-sum](https://leetcode.com/problems/minimum-path-sum/)
 矩阵从左上走到右下所有路径的最短路径和
 
+- [day62 242 valid-anagram](https://leetcode.com/problems/valid-anagram/)
+判断是否两个词互为字母异位词
+
+- [day63 515-find-largest-value-in-each-tree-row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)
+求二叉树每一层的最大值，并返回数组
+
+- [day64 102 binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+打印二叉树的每一层
+
+- [day65 433 minimum-genetic-mutation](https://leetcode.com/problems/minimum-genetic-mutation/)
+最小基因变化次数
+
+- [day66 200 number-of-islands](https://leetcode.com/problems/number-of-islands)
+岛屿数量
