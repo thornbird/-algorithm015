@@ -1,5 +1,5 @@
 func mergeTwoLists(l1 *ListNode, l2 *ListNode) *ListNode {
-	pre := &ListNode{Val: 0, Next: nil}
+	pre := &ListNode{}
 	tmp := pre
 
 	for true {

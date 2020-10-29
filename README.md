@@ -17,7 +17,15 @@
 
 详细的作业提交流程可以查阅：https://shimo.im/docs/m5rtM8K8rNsjw5jk/ 
 
+## 学习记录
+1. [合并有序数组](https://leetcode.com/problems/merge-two-sorted-lists/)
+主要看这里的Next变化及Pre的定义
 
-## 注意事项
+2. [跳跃游戏二](https://leetcode.com/problems/jump-game-ii/)
+初始值是如何定义的？
 
- 如果对 Git 和 GitHub 不太了解，请参考 [Git 官方文档](https://git-scm.com/book/zh/v2) 或者极客时间的[《玩转 Git 三剑客》](https://time.geekbang.org/course/intro/145)视频课程。
+3. [191 计算二进制中1的个数](https://leetcode.com/problems/number-of-1-bits/)
+`num = num & (num - 1)` 表示清理掉最低位的1
+
+4. [912 排序数组](https://leetcode.com/problems/sort-an-array/)
+快排 - 没啥技巧，记住index的变化，和如何比较，如何交换的

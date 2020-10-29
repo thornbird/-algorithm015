@@ -75,3 +75,9 @@ LRU Cache
 
 - [day66 200 number-of-islands](https://leetcode.com/problems/number-of-islands)
 岛屿数量
+
+- [day67 912 sort an array](https://leetcode.com/problems/sort-an-array)
+排序数组
+
+- [day68 433 minimum-genetic-mutation](https://leetcode.com/problems/minimum-genetic-mutation)
+最小基因变化次数
