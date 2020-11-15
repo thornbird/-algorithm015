@@ -79,5 +79,38 @@ LRU Cache
 - [day67 912 sort an array](https://leetcode.com/problems/sort-an-array)
 排序数组
 
-- [day68 433 minimum-genetic-mutation](https://leetcode.com/problems/minimum-genetic-mutation)
+- [day68 771 jewels-and-stones](https://leetcode.com/problems/jewels-and-stones/)
+宝石和石头（字符匹配）
+
+- [day69 433 minimum-genetic-mutation](https://leetcode.com/problems/minimum-genetic-mutation)
 最小基因变化次数
+
+- [day70 125 valid-palindrome](https://leetcode.com/problems/valid-palindrome/)
+验证回文串
+
+- [day71 valid-palindrome-ii](https://leetcode-cn.com/problems/valid-palindrome-ii/)
+删掉0个或1个字符后，判断是否回文
+
+- [day72 house-robber](https://leetcode-cn.com/problems/house-robber/)
+打家劫舍
+
+- [day73 longest palindrome](https://leetcode.com/problems/longest-palindromic-substring/)
+最长回文子串
+
+- [day74 string compression](https://leetcode.com/problems/string-compression/)
+原地压缩字符串
+
+-[day75 distint subsequences](https://leetcode-cn.com/problems/distinct-subsequences/)
+子序列中包含多少某字符串
+
+-[day76 distint subsequences](https://leetcode-cn.com/problems/distinct-subsequences/)
+子序列中包含多少某字符串 - 另一种解法
+
+-[day77 decode ways](https://leetcode.com/problems/decode-ways/)
+解码方式（从数字到字母的解码方式多少种）
+
+-[day78 word ladder](https://leetcode-cn.com/problems/word-ladder/)
+单词接龙
+
+-[day79 word ladder](https://leetcode-cn.com/problems/word-ladder/)
+单词接龙（另一种解法）

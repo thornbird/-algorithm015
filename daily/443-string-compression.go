@@ -1,9 +1,4 @@
-package main
-
-import (
-	"fmt"
-	"strconv"
-)
+import "strconv"
 
 func compress(chars []byte) int {
 	lenChars := len(chars)
@@ -33,10 +28,4 @@ func compress(chars []byte) int {
 	}
 
 	return write
-}
-
-func main() {
-	fmt.Println(compress([]byte{'a', 'b', 'b', 'c'}))      // 'ab2c'
-	fmt.Println(compress([]byte{'a', 'b', 'b', 'c', 'c'})) // 'ab2c2'
-	fmt.Println(compress([]byte{'a'}))                     // 'a'
 }

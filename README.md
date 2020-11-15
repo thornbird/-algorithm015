@@ -21,8 +21,8 @@
 1. [合并有序数组](https://leetcode.com/problems/merge-two-sorted-lists/)
 主要看这里的Next变化及Pre的定义
 
-2. [跳跃游戏二](https://leetcode.com/problems/jump-game-ii/)
-初始值是如何定义的？
+2. [45 跳跃游戏二](https://leetcode.com/problems/jump-game-ii/)
+初始值是如何定义的？- 看我代码中的注释
 
 3. [191 计算二进制中1的个数](https://leetcode.com/problems/number-of-1-bits/)
 `num = num & (num - 1)` 表示清理掉最低位的1
